@@ -1,6 +1,7 @@
 # Euler-Lagrange-Path-Optimization
 ![PLA](https://github.com/user-attachments/assets/8f2f6237-9f08-4415-a2db-c8ed1e5372e9)
 >didnt know that we are just using a special case of this equation in our school works!
+
 This project visualizes the concept of action minimization in physics, specifically related to the Euler-Lagrange equation. The script generates multiple random trajectories that do not satisfy the Euler-Lagrange equation and highlights the optimal path that minimizes the action.
 
 ## Features
